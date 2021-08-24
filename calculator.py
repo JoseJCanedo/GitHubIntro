@@ -5,7 +5,6 @@ def subtract(x, y):
     return x-y
 
 #def multiply
-
 #def divide
 
 print("Select Operation.")
